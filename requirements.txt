@@ -1,0 +1,7 @@
+langgraph
+langchain_community
+langchain_groq
+python_dotenv
+fastapi
+streamlit
+#ipykernel
