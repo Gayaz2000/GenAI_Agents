@@ -12,6 +12,7 @@ dependencies = [
     "langchain-experimental>=0.3.4",
     "langchain-groq>=0.3.4",
     "langchain-mcp-adapters>=0.1.7",
+    "langchain-ollama>=0.3.3",
     "langgraph>=0.4.9",
     "mcp>=1.9.4",
     "python-dotenv>=1.1.1",

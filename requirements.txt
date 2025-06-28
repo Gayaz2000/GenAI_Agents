@@ -1,6 +1,7 @@
 langgraph
 langchain_community
 langchain_groq
+langchain-ollama
 python_dotenv
 fastapi
 streamlit
