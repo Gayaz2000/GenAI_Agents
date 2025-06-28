@@ -32,4 +32,4 @@ async def travel_agent_query(query:QueryRequest):
             final_output = str(output)
         return {"answer": final_output}
     except Exception as e:
-        return JSONResponse(status_code=500, content={"error": str(e)})
+        raise f"Error occured: {str(e)}"
