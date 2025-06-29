@@ -11,3 +11,6 @@ mcp
 fastmcp 
 langchain-mcp-adapters
 duckduckgo-search
+plotly 
+networkx 
+pyvis
