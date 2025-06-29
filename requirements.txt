@@ -10,3 +10,4 @@ tabulate
 mcp 
 fastmcp 
 langchain-mcp-adapters
+duckduckgo-search
