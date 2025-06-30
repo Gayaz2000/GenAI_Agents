@@ -17,6 +17,7 @@ dependencies = [
     "langgraph>=0.4.9",
     "mcp>=1.9.4",
     "networkx>=3.5",
+    "pinecone>=7.3.0",
     "plotly>=6.2.0",
     "python-dotenv>=1.1.1",
     "pyvis>=0.3.2",
