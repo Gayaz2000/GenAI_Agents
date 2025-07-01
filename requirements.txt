@@ -2,6 +2,8 @@ langgraph
 langchain_community
 langchain_groq
 langchain-ollama
+langchain_google_genai
+youtube-transcript-api
 python_dotenv
 fastapi
 streamlit
